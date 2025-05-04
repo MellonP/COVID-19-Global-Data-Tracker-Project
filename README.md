@@ -31,7 +31,7 @@ This repository contains a data analysis project that explores [specific dataset
 ## How to Run the Project
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/data-analysis-project.git
+git clone https://github.com/MellonP/COVID-19-Global-Data-Tracker-Project.git
 cd data-analysis-project
 ```
 
